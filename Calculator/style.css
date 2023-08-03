@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --bgcolor: #0C101E;
+    --btncolor: #0c101e5b;
+    --txtcolor: #fff;
+    --box-shadow: 2px 2px 4px 0px #1B2031 inset;
+    --filter: drop-shadow(2px 2px 8px #020305);
+    --border: 1px solid transparent;
+}
+
+.light {
+    --bgcolor: #F4F4F4;
+    --btncolor: #f4f4f485;
+    --txtcolor: #0C101E;
+    --box-shadow: none;
+    --filter: none;
+    --border: 1px solid #0C101E;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 23.75rem;
+    height: 43.75rem;
+    background-color: var(--bgcolor);
+    border-radius: 2.1rem;
+    padding: 1.4rem 1.6rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1.2rem;
+    position: relative;
+    border: var(--border);
+}
+
+#modebtn {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background-color: #F4F4F4;
+    right: 1.2rem;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modebtn.light-btn {
+    background-color: #0C101E;
+}
+
+.screen-box {
+    width: 100%;
+    height: 35%;
+    border-radius: 1.2rem 1.2rem 0 0;
+}
+
+#screen {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    text-align: end;
+    display: flex;
+    background-color: var(--bgcolor);
+    border-radius: 1.2rem 1.2rem 0 0;
+    font-size: 2.7rem;
+    color: var(--txtcolor);
+    caret-color: var(--txtcolor);
+    padding: 0.8rem;
+    padding-top: 9rem;
+    letter-spacing: 3px;
+}
+
+.btn-container {
+    flex: 1;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* grid-template-rows: repeat(5, 1fr); */
+    grid-gap: 1rem;
+}
+
+#zero {
+    grid-column: span 2;
+    border-radius: 50px;
+    width: 9.75rem;
+    height: 4.375rem;
+}
+
+button {
+    border: none;
+    outline: none;
+    width: 4.375rem;
+    height: 4.375rem;
+    border-radius: 50%;
+    background-color: var(--btncolor);
+    color: var(--txtcolor);
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: var(--box-shadow);
+    filter: var(--filter);
+    border: var(--border);
+}
