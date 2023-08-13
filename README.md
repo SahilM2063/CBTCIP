@@ -1,8 +1,6 @@
 # CBTCIP
 
-# Internship Projects Repository
-
-![Project Logo](link_to_logo.png)
+# Cipherbyte Internship Projects Repository
 
 Welcome to my internship projects repository! This repository showcases two projects I have worked on during my internship: a Calculator and a To-Do List app. Each project reflects my dedication, skills, and passion for learning and growing as a developer. Feel free to explore the projects, review the code, and provide feedback. Your insights are invaluable to me as I continue to develop and improve.
 
@@ -42,7 +40,7 @@ The Calculator project is a simple web application that allows users to perform 
 ### Installation
 
 1. Clone this repository.
-2. Open the `calculator.html` file in your web browser.
+2. Open the `Calculator/calculator.html` file in your web browser.
 
 ### Usage
 
@@ -69,7 +67,7 @@ The To-Do List App is a web-based task management application that helps users k
 ### Installation
 
 1. Clone this repository.
-2. Open the `todo_app.html` file in your web browser.
+2. Open the `ToDoLisr/index.html` file in your web browser.
 
 ### Usage
 
@@ -87,4 +85,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-Thank you for visiting my internship projects repository. If you have any questions, suggestions, or feedback, please don't hesitate to [get in touch](mailto:your.email@example.com). Your interest and support are greatly appreciated!
+Thank you for visiting my internship projects repository. If you have any questions, suggestions, or feedback, please don't hesitate to [get in touch](makadiasahil9846@gmail.com). Your interest and support are greatly appreciated!
