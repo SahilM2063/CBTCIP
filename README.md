@@ -61,7 +61,7 @@ The To-Do List App is a web-based task management application that helps users k
 
 ### Screenshots
 
-![To-Do List App Screenshot](todo_app_screenshot.png)
+![To-Do List App Screenshot](ToDoList/todo-github-img.png)
 
 ### Installation
 
