@@ -18,8 +18,6 @@ Welcome to my internship projects repository! This repository showcases two proj
   - [Screenshots](#screenshots-1)
   - [Installation](#installation-1)
   - [Usage](#usage-1)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Calculator
 
