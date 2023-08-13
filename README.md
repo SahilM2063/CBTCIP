@@ -33,7 +33,8 @@ The Calculator project is a simple web application that allows users to perform 
 
 ### Screenshots
 
-![Calculator Screenshot](calculator_screenshot.png)
+![Calculator Screenshot](Calculator/calc-github-img-1.png)
+![Calculator Screenshot](Calculator/calc-github-img-2.png)
 
 ### Installation
 
