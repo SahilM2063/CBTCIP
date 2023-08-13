@@ -75,14 +75,6 @@ The To-Do List App is a web-based task management application that helps users k
 2. Click on a task to mark it as completed.
 3. Click the "Clear Completed" button to remove completed tasks.
 
-## Contributing
-
-If you're interested in contributing to either of the projects, I'd be delighted to have your input! Please follow the guidelines in the `CONTRIBUTING.md` file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms.
-
 ---
 
 Thank you for visiting my internship projects repository. If you have any questions, suggestions, or feedback, please don't hesitate to [get in touch](makadiasahil9846@gmail.com). Your interest and support are greatly appreciated!
