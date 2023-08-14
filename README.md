@@ -66,7 +66,7 @@ The To-Do List App is a web-based task management application that helps users k
 ### Installation
 
 1. Clone this repository.
-2. Open the `ToDoLisr/index.html` file in your web browser.
+2. Open the `ToDoList/index.html` file in your web browser.
 
 ### Usage
 
